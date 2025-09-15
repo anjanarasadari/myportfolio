@@ -10,7 +10,7 @@ function About() {
         About Me
       </h2>
       <p className="text-gray-300 text-lg mb-4 leading-relaxed">
-        Hey there! I'm <strong>Anjaana Rasadari</strong> — a highly motivated 
+        Hey there! I'm <strong>Anjaana Rasadari Isurundi</strong> — a highly motivated 
         <strong> Senior Software Engineer</strong> with over 5 years of experience 
         specializing in Java frameworks and cloud computing.
       </p>
